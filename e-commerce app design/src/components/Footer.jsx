@@ -99,16 +99,18 @@ const Footer = () => {
       </Left>
       <Center>
         <Title>Useful Links</Title>
-        <ListItem>Home</ListItem>
-        <ListItem>Cart</ListItem>
-        <ListItem>Men Fashion</ListItem>
-        <ListItem>Women Fashion</ListItem>
-        <ListItem>Accessories</ListItem>
-        <ListItem>My Account</ListItem>
-        <ListItem>Order Tracking</ListItem>
-        <ListItem>Wishlist</ListItem>
-        <ListItem>Wishlist</ListItem>
-        <ListItem>Terms</ListItem>
+        <List>
+          <ListItem>Home</ListItem>
+          <ListItem>Cart</ListItem>
+          <ListItem>Men Fashion</ListItem>
+          <ListItem>Women Fashion</ListItem>
+          <ListItem>Accessories</ListItem>
+          <ListItem>My Account</ListItem>
+          <ListItem>Order Tracking</ListItem>
+          <ListItem>Wishlist</ListItem>
+          <ListItem>Wishlist</ListItem>
+          <ListItem>Terms</ListItem>
+        </List>
       </Center>
       <Right>
         <Title>Contact</Title>
